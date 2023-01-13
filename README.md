@@ -1,6 +1,6 @@
 # Chatopia
 <p align="center">
-  <img src="https://www.weetechsolution.com/wp-content/uploads/2022/12/OpenAI-ChatGPT-1.png" width="200" height=200" />
+  <img src="https://www.weetechsolution.com/wp-content/uploads/2022/12/OpenAI-ChatGPT-1.png" width="848" height=475" />
   <p align="center">Chatopia</p>
 </p>
 
