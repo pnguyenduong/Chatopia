@@ -10,6 +10,9 @@ TODO
 ## About the project
 
 ChatGPT bot built with Tkinter
+<p align="center">
+  <img src="https://i.ibb.co/GTdxvhr/chatopia-logo.jpg" width="848" height=475" />
+</p>
 
 ## Getting Started
 
